@@ -1,0 +1,11 @@
+{
+    "name":"PersnlBot",
+    "description":"PersnlBot created by [Prince Kumar], helps you answer coding questions , answers your any general queries from any domain",
+    "version":"0.0.1",
+    "manifest_version":3,
+    "action":{
+"default_popup":"index.html",
+"default_icon": "images.png"
+    }
+
+}
